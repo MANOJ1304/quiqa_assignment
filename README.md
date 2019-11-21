@@ -1,2 +1,8 @@
 # quiqa_assignment
-Assignment
+Assignmen
+B
+B
+C
+C
+C
+
